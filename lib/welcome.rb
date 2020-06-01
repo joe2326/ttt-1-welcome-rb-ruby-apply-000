@@ -1,2 +1,2 @@
 #ruby 
-puts "Welcome To"
+puts "Welcome to Tic Tac Toe!"
